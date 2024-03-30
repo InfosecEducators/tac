@@ -1,0 +1,129 @@
+https://github.com/InfosecEducators/EducationPartnership
+Task
+Progress
+Links
+OpenSSF Mission Alignment
+90%
+
+Separate GitHub Repo
+0%
+github.com/
+Diversified contributor base
+100%
+List of contributors (LF facing)
+TAC Sponsor
+-% (May be 90%)
+
+Find WG to host TI or TAC Sponsor
+-% (May be 80%)
+
+Agrees to secure software development guiding principals
+90%
+*Link to statement* Need to create a state meant of agreement to Secure Software Development Guiding Principals
+Agrees to Open Source Consumption Manifesto
+90%
+*Link to statement* Need to create a state meant of agreement to Open Source Consumption Manifesto
+IP Due Diligence
+-% 
+??? (Potentially N/A), read if applicable
+Quarterly updates to the TAC on technical vision and progress on vision
+-%
+Link to process diagram, sample document, and dates
+Security.md describing how project minimizes vulnerabilities or how OSSF handles vulnerability reports
+90%
+Link to security.md
+
+
+
+
+
+OpenSSF Mission Alignment
+
+						     Mission
+	The Education Partnerships TI is established to fulfill the OpenSSF mission to make it easier to sustainably secure the development, maintenance, and consumption of the open source (OSS) we all depend on by prioritizing partnerships with educational entities to address the shortage of trained cybersecurity professionals that can assist developers as they create, test, and release their code.
+
+						        Vision
+	The Education Partnerships TI believes that partnerships are critical to the success of addressing current and future demand for a skilled, credentialed cybersecurity workforce. Our vision is a future that includes the expansion of long lasting partnerships with OpenSSF and educational entities that will have a compounding effect by increasing the number of skilled, credentialed cybersecurity professionals. We shall fulfill this vision through enabling individuals and organizations to best utilize resources that will increase the number of skilled, credentialed cybersecurity professionals. 
+
+							Plan
+	Our inspiration derives from OpenSSF’s focus on increasing the cybersecurity workforce through partnerships with educational entities of all kinds. Our plan is to achieve objectives that will lead to the increase of skilled, credentialed cybersecurity professionals, increase in young people pursuing skills and credentials in cybersecurity, further ability for educational attainment through cybersecurity education scholarships, and incentivize acquiring skills in cybersecurity. 
+
+	Initially, the goals of the Education Partnerships TI include the establishment of new partnerships with educational entities external to OpenSSF that will result in quantifiable metrics attainment of the *Include Working Groups, Education SIG, and OpenSSF*. These goals include:
+
+New Educational Partnerships:
+
+Means-Tested Scholarships:
+
+In-Person, Instructor Led Cybersecurity Education: 
+
+
+					Processes & Procedures
+
+The Education Partnerships TI will provide updates quarterly to the TAC regarding the fulfillment of the organization’s technical vision, quantifiable mutual objectives achievement, progress to fulfillment of goals, and share results from the TI’s ongoing efforts.  
+
+						Security.md
+
+*In Progress*
+
+Per the Linux Foundation Vulnerability Disclosure Policy, if you find a vulnerability in a project maintained by the OpenSSF, please report that directly to the project maintaining that code.
+If you've been unable to find a way to report it, or have received no response after repeated attempts, please contact the OpenSSF security contact email, security @ openssf . org.
+
+	The Education Partnerships TI will minimize vulnerabilities by increasing the number of skilled, credentialed cybersecurity professionals through educational partnerships that incentivize cybersecurity education to the existing workforce and future workforce of technical professionals. 
+
+				Secure Software Development Guiding Principals
+
+*In Progress* 
+Document from GitHub
+As developers of software, we are committed to enhancing the security and transparency of the software supply chain by pledging the following for all software we produce, both proprietary and open source, whether embedded in a device, released on a standalone basis, or designed to operate as a service, with the goal of creating software that is secure by default:
+	0.	To employ development practices that are in conformance with modern, industry-accepted secure development methods.
+	0.	To learn and apply secure software design principles (such as least privilege).
+	0.	To learn the most common kinds of vulnerabilities and to take steps to make them unlikely or limit their impact.
+	0.	To check for and address known and potential critical vulnerabilities prior to releasing software, then monitor for vulnerabilities subsequently throughout the supported life of the product.
+	0.	To harden and secure our software development infrastructure against compromise or infiltration against the same principles, practices, and expectations set for the software developed on and built from them.
+	0.	To prioritize the sourcing of software from suppliers and developers who also pledge to develop in conformance with the Secure Software Development Guiding Principles, and from projects that publicly report security health metrics and adopt controls to prevent tampering of software packages, and that actively address known/discovered malicious software.
+	0.	To provide software supply chain understandability to consumers of our software consistent with evolving industry standards, practices, and tooling.
+	0.	To manage responsible vulnerability disclosure programs that are inclusive of upstream dependencies and have publicly documented vulnerability reporting and remediation policies.
+	0.	To publish security advisories consistent with evolving industry best practices.
+	0.	To actively collaborate with and participate in industry and regulatory initiatives related to securing the software supply chain, and to evangelize adoption of the Secure Software Development Guiding Principles among our industry peers.
+Signatures
+Anyone interested in pledging to follow Principles is encouraged to file a Pull Request and add your name or organization to the Signatories.
+This site is open source. Improve this page.
+
+	The Education Partnerships TI agrees to the Secure Software Development Guiding Principals (Include link) the organization’s fulfillment of duties. 
+
+Open Source Consumption Manifesto
+*In progress*
+We seek to…
+	•			Prioritize secure consumption of open source components
+	•			Be aware and considerate of the developer experience
+	•			Build upon iterative policy-based foundations and best practices
+We call on commercial and non-commercial development organizations to…
+	•			Accept open source software consumption as critical to building a secure software supply chain.
+	•			Ensure that open source software consumption is balanced against a defined risk profile which can depend on risk tolerance, regulatory context, etc.
+	•			Recognize potential risks associated with open source consumption, including vulnerabilities, malicious software and component choice.
+	•			Acknowledge that not all vulnerabilities are actively curated, and the scoring systems (such as CVSS used for CVEs) can be a trailing indicator.
+	•			Improve open source consumption via audit and quarantine functionality for components matching known vulnerabilities and malicious packages.
+	•			Focus on tools and processes that support and extend the abilities of development teams/developers to make informed evaluations of consumed open source software.
+	•			Protect software organizations and development teams from malicious software by supporting established security models (e.g., SLSA, S2C2F, etc.) and then applying those models to the consumption of open source.
+	•			Establish an open source consumption policy and regularly test against tolerance for risk, impact on development teams, and other goals.
+	•			Work with teams to design and implement mindful control points for open source consumption throughout the SDLC.
+	•			Adopt tooling, best practices, and processes to (1) continuously track, measure, and improve the security of open source software being consumed, (2) respond to security issues more effectively, and (3) facilitate risk communication to customers/partners through existing channels (e.g., CISA’s CVD, VEX, etc.).
+	•			Adopt and develop open source consumption management tooling and processes that support a recall ability similar to those in other industries.
+	•			Ensure the lifecycle of consumed open source components is appropriately managed and that consuming developer teams use the latest, LTS, or otherwise “supported” releases where practical.
+	•			Engage with the upstream developers of consumed components, especially for components that form a critical part of your project, to report issues, fix bugs, support development, etc.
+On behalf of the OpenSSF End User Working group, we invite you to join us in adopting the principles and best practices of the Open Source Consumption Manifesto and help spread the message. If you’re interested in officially signing the Manifesto, feel free to add your name and submit a PR.
+	The Education Partnerships TI agrees to the *Include Open Source Consumption Manifesto* throughout the organization’s fulfillment of duties.
+
+						IP Due Diligence
+
+Diversified Contributor Base
+	The Education Partnerships TI has a multitude of contributors from multiple entities. 
+
+
+
+
+
+
+
+
+
